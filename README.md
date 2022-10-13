@@ -18,4 +18,4 @@ In depth description of the project in the [report.pdf](https://github.com/jucam
 
 ### Click on the image to watch video.
 
-[![Watch the video](https://raw.githubusercontent.com/jucamohedano/opengl-scene/master/doc/finalScene.png)](https://www.youtube.com/watch?v=0rLoSbXruZY&t=6s)
+[![Watch the video](https://raw.githubusercontent.com/jucamohedano/opengl-scene/master/docs/finalScene.png)](https://www.youtube.com/watch?v=0rLoSbXruZY&t=6s)
