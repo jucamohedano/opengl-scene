@@ -2,7 +2,7 @@
 
 Implementation of a 3D graphics scene with OpenGL and Qt framework to dynamically make changes to the scene. Some features of this project are the application of textures, relative transformations of the bodies, lights and arc-ball motion with mouse.
 
-In depth description of the project in the [report.pdf](https://github.com/jucamohedano/opengl-scene/blob/master/doc/report.pdf)
+In depth description of the project in the [report.pdf](https://github.com/jucamohedano/opengl-scene/blob/master/docs/report.pdf)
 
 
 ### How to run the scene
